@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  useername              : "ecoevo.social/@SFGravel"
+  username              : "ecoevo.social/@SFGravel"
 twitter:
   username               : &twitter
 facebook:
@@ -105,6 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  mastodon         : "https://ecoevo.social/@SFGravel"
   orcid            : "http://orcid.org/0000-0002-9183-964X"
   pinterest        :
   soundcloud       :
