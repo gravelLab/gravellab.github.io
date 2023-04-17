@@ -17,7 +17,6 @@ Contact:
 simon.gravel@mcgill.ca
 
 
-
-
-Lab member 1
+Alex Diaz-Papkovich, graduate student
 =====
+Alex graduated from the University of Waterloo with a BMath, majoring in Statistics and minoring in Pure Mathematics, and completed an MSc in Probability and Statistics at Carleton University. He was a rotation student in the lab in Winter 2018 as part of McGill University's Quantitative Life Sciences PhD program. He joined the lab fully in September 2018, focusing his research on dimensionality reduction, data visualization, and exploratory data analysis for biobanks.
