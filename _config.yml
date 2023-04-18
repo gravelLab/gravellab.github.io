@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+mastodon:
+  username              : "ecoevo.social/@SFGravel"
 twitter:
   username               : &twitter
 facebook:
@@ -103,6 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  mastodon         : "https://ecoevo.social/@SFGravel"
   orcid            : "http://orcid.org/0000-0002-9183-964X"
   pinterest        :
   soundcloud       :
@@ -230,15 +233,15 @@ defaults:
       share: true
       comments: true
 
-# _software
-- scope:
-    path: ""
-    type: software
-  values:
-    layout: single
-    author_profile: true
-    share: true
-    comments: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
   # _portfolio
   - scope:

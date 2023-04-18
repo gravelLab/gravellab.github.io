@@ -10,6 +10,8 @@ You'll find most of software on the [gravellab github page](https://github.com/g
 
 {% include base_path %}
 
-{% for post in site.software reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %}
+  {% if post.softwarename %}
+    {% include archive-single-software.html %}
+  {% endif %}
 {% endfor %}
