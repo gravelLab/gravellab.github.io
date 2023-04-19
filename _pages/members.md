@@ -25,3 +25,7 @@ Alex graduated from the University of Waterloo with a BMath, majoring in Statist
 
 
 # Alumni
+
+## Luke Anderson-Trocme
+
+Luke Anderson-Trocmé (PhD) is now a postdoctoral researcher working with John Novembre at the University of Chicago, specializing in the development of innovative data visualizations to depict the geographic distribution of genetic variation. Building on the skillsets honed during his PhD in the Gravel Lab and a background in environmental microbiology, Luke’s research on the French-Canadian population showcases his expertise in genealogy and population genetics. He continues to explore the connections between history, geography, and genetics to unravel the complexities of human ancestry.
