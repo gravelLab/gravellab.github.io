@@ -26,7 +26,8 @@ Alex graduated from the University of Waterloo with a BMath, majoring in Statist
 
 # Alumni
 
-## Luke Anderson-Trocmé
+## Luke Anderson-Trocmé [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40LukeAnderTroc)](https://twitter.com/LukeAnderTroc)
+
 
 Luke Anderson-Trocmé (PhD) is now a postdoctoral researcher working with John Novembre at the 
 University of Chicago, specializing in the development of innovative data visualizations to 
