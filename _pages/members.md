@@ -29,8 +29,23 @@ simon.gravel@mcgill.ca
 
 Alex graduated from the University of Waterloo with a BMath, majoring in Statistics and minoring in Pure Mathematics, and completed an MSc in Probability and Statistics at Carleton University. He was a rotation student in the lab in Winter 2018 as part of McGill University's Quantitative Life Sciences PhD program. He joined the lab fully in September 2018, focusing his research on dimensionality reduction, data visualization, and exploratory data analysis for biobanks.
 
+## Alouette Zhang
+
+## Georgette Femerling Romero
+
+## Gerardo Martinez
+
+## Shadi Zabad
 
 # Alumni
+
+## Aaron Ragsdale
+
+## Chief Ben Eghan
+
+## Dominic Nelson
+
+## Julien Jouganous
 
 ## Luke Anderson-Trocmé <a href="https://github.com/LukeAndersonTrocme"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> <a href="https://twitter.com/LukeAnderTroc"><i class="fab fa-fw fa-twitter zoom" aria-hidden="true"></i></a>
 Luke Anderson-Trocmé (PhD) is now a postdoctoral researcher working with John Novembre at the 
@@ -40,3 +55,11 @@ his PhD in the Gravel Lab and a background in environmental microbiology, Luke�
 French-Canadian population showcases his expertise in genealogy and population genetics. He 
 continues to explore the connections between history, geography, and genetics to unravel the 
 complexities of human ancestry.
+
+## Maxime Barakatt 
+
+## Sergio Hleap
+
+## Soheil Baharian
+
+## Zafarali Ahmed
