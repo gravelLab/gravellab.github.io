@@ -7,10 +7,12 @@ author_profile: true
 
 # Principal Investigator
 
-## Simon Gravel
+## Simon Gravel <a href="https://github.com/sgravel"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>  <a href="https://ecoevo.social/@SFGravel"><i class="fab fa-fw fa-mastodon zoom" aria-hidden="true"></i></a> <a href="https://twitter.com/SFGravel"><i class="fab fa-fw fa-twitter zoom" aria-hidden="true"></i></a>
 
 <!--- <img align="left" src="/images/photo_simon.jpg" style="width:100px;height:160p"/> --->
-I try to understand the relationship between genetic diversity, history, biology, and disease. I often do this through mathematics and statistics, and collaborations with people who know biology, history and anthropology. I am also scientific co-director of the [CARTaGENE cohort](https://cartagene.qc.ca/).
+Simon Gravel is associate professor in the Department of Human Genetics at McGill University, with affiliations in Computer Science, Quantitive Biology, Epidemiology and Biostatistics, and Physics. His graduate training was in Mathematics and Physics at the Université de Montréal and Cornell University, and did postdocs in Genetics in Cologne and Standord universities. 
+
+He tries to understand the relationship between genetic diversity, history, biology, and disease. A lot of his work is through mathematics and statistics, with collaborations with people who know biology, history and anthropology. He is also scientific co-director of the [CARTaGENE cohort](https://cartagene.qc.ca/).
 
 Contact:  
 740 Dr. Penfield, room 7206  
@@ -30,9 +32,7 @@ Alex graduated from the University of Waterloo with a BMath, majoring in Statist
 
 # Alumni
 
-## Luke Anderson-Trocmé [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40LukeAnderTroc)](https://twitter.com/LukeAnderTroc)
-
-
+## Luke Anderson-Trocmé <a href="https://github.com/LukeAndersonTrocme"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> <a href="https://twitter.com/LukeAnderTroc"><i class="fab fa-fw fa-twitter zoom" aria-hidden="true"></i></a>
 Luke Anderson-Trocmé (PhD) is now a postdoctoral researcher working with John Novembre at the 
 University of Chicago, specializing in the development of innovative data visualizations to 
 depict the geographic distribution of genetic variation. Building on the skillsets honed during 
