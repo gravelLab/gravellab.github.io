@@ -17,6 +17,10 @@ Contact:
 (514)398-4400 #0753  
 simon.gravel@mcgill.ca
 
+# Postdoc
+
+## Melissa Spear
+
 # Graduate students
 
 ## Alex Diaz-Papkovich
