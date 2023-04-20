@@ -23,7 +23,12 @@ simon.gravel@mcgill.ca
 
 ## Melissa Spear
 
-Melissa is a postdoctoral fellow working jointly with Simon Gravel and Dara Torgerson (UCSF). She received her PhD in 2019 from UCSF in the lab of Ryan Hernandez, studying the role of recent demographic history in shaping patterns of genetic ancestry in Hispanic/Latino populations.  She is broadly interested in the evolutionary and historical processes that shape genetic diversity in admixed and underrepresented populations. In the group, Melissa co-leads the PopGen working group of the CAAPA consortium, which is focused on further understanding genetic diversity in populations of African descent. Outside of the lab, Melissa enjoys knitting, baking, adding more books to her never ending stack of unread books, and feeding the ducks in Parc La Fontaine even when she’s not supposed to.
+Melissa is a postdoctoral fellow working jointly with Simon Gravel and Dara Torgerson (UCSF). She received her PhD in 2019 from UCSF in the lab of Ryan 
+Hernandez, studying the role of recent demographic history in shaping patterns of genetic ancestry in Hispanic/Latino populations.  She is broadly 
+interested in the evolutionary and historical processes that shape genetic diversity in admixed and underrepresented populations. In the group, Melissa 
+co-leads the PopGen working group of the CAAPA consortium, which is focused on further understanding genetic diversity in populations of African 
+descent. Outside of the lab, Melissa enjoys knitting, baking, adding more books to her never ending stack of unread books, and bird watching at Parc La 
+Fontaine.
 
 # Graduate students
 
