@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gravel Lab page"
+title                    : "Gravel Lab @McGill"
 title_separator          : "-"
 name                     : &name "Simon Gravel"
 description              : &description "Population and Statistical Genetics at McGill University"
@@ -85,7 +85,7 @@ author:
   name             : "Gravel Lab"
   avatar           : "gravel_DNA_2-fs8.png"
   bio              : "Statistical and population genetics"
-  location         : "McGill University"
+  location         : "Department of Human genetics, McGill University"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Simon+Gravel"
   googlescholar    : "https://scholar.google.com/citations?user=0wQ8O80AAAAJ&hl=fr"
