@@ -10,11 +10,11 @@ Feel free to reach out at any time at [gravellab@gmail.com](mailto:gravellab@gma
 
 ## Research environment
 
-Because our research is interdisciplinary, trainees in the lab come from a diversity of backgrounds -- we have had students from anthropology, biology, computer science, mathematics, statistics, and other fields. We also collaborate with other lab at McGill and abroad from these disciplines. 
+Because our research is interdisciplinary, trainees in the lab come from a diversity of backgrounds -- we have had students from anthropology, biology, computer science, mathematics, statistics, and other fields. We also collaborate with other labs at McGill and abroad from these disciplines. 
 
-We are located at the Mcgill University Genome Centre. Colleagues in the centre work on a range of topics from population and statistical genetics to epigenetics, pharmagenomics, single cell genomics, as well as ethics and policy, among others. We have weekly meetings where we share progress on these topics. 
+We are located at the McGill University Genome Centre. Colleagues in the centre work on a range of topics from population and statistical genetics to epigenetics, pharmagenomics, single cell genomics, as well as ethics and policy, among others. We have weekly meetings where we share progress on these topics. 
 
-The Genome centre is located on the main campus of McGill university, next to, e.g., computer science, engineering, and physics buildings. Also dentistry, which led to unexpected collaborations. We often attend talks and events from different departments. 
+The Genome centre is located on the main campus of McGill university, next to the computer science, engineering, and physics buildings. Also dentistry, which led to unexpected collaborations. We often attend talks and events from different departments. 
 
 The main campus is located downtown Montréal. It is also near two other universities (UQAM, and Université de Montréal), with excellent and collaborative researchers.  
 
@@ -25,7 +25,7 @@ Info for graduate students about living in Montreal can be found [here](https://
 
 ## Graduate degrees and programs
 
-Most students in my lab are part of the [Human Genetics department](https://www.mcgill.ca/humangenetics/). The [MSc and PhD programs](https://www.mcgill.ca/humangenetics/our-programs/msc-and-phd-programs) are quite flexible, which allows trainees to select the courses they need across any program at McGill or even other univerities. 
+Most students in my lab are part of the [Human Genetics department](https://www.mcgill.ca/humangenetics/). The [MSc and PhD programs](https://www.mcgill.ca/humangenetics/our-programs/msc-and-phd-programs) are quite flexible, which allows trainees to select the courses they need across any program at McGill or even other universities. 
 
 I also supervise students via the School of [Computer Science](https://www.cs.mcgill.ca/), which has a few [programs](https://www.cs.mcgill.ca/graduate/future/overview/) suitable for people who want to focus on CS.  
 
@@ -35,11 +35,11 @@ Students with quantiative backgrounds wishing to engage with biology while devel
 
 ## Undergraduate training
 
-I do supervise undergraduate internships via either research courses (such as COMP 400) or fellowships (such as MITACS). I have occasionally hired undergraduates for research associate poistions. I do not provide unpaid internships outside of research training courses. In most cases, internships focus on either programming or data analysis, but there are other possibilities. Interested students should contact me early at [gravellab@gmail.com](mailto:gravellab@gmail.com). 
+I do supervise undergraduate internships via either research courses (such as COMP 400) or fellowships (such as MITACS). I have occasionally hired undergraduates for research associate positions. I do not provide unpaid internships outside of research training courses. In most cases, internships focus on either programming or data analysis, but there are other possibilities. Interested students should contact me early at [gravellab@gmail.com](mailto:gravellab@gmail.com). 
 
 ## Application process
 
-With the exception of the QLS program, admissions to these programs require you to find a supervisor. Concretely, if you are interested in working in my lab, you should probably reach out before applying ([gravellab@gmail.com](mailto:gravellab@gmail.com)). I typically need a cv, transcript, and contact information for two references. A short cover letter (a page or less) is useful -- this can simply the body of the email. If there are suitable opportunities, I will reach out and schedule a short informational meeting, from which we will determine the next steps. These often include a short presentation where you talk about some project you worked on, discussions about a suitable tentative project, and meeting with current trainees. If everything works out, I will then recommend admission to the program you chose. 
+With the exception of the QLS program, admissions to these programs require you to find a supervisor. Concretely, if you are interested in working in my lab, you should probably reach out before applying ([gravellab@gmail.com](mailto:gravellab@gmail.com)). I typically need a cv, transcript, and contact information for two references. A short cover letter (a page or less) is useful -- this can be simply the body of the email. If there are suitable opportunities, I will reach out and schedule a short informational meeting, from which we will determine the next steps. These often include a short presentation where you talk about some project you worked on, discussions about a suitable tentative project, and meeting with current trainees. If everything works out, I will then recommend admission to the program you chose. 
 
 It can take a few weeks for me to get back to you initially (see EDI statement below). If you have a deadline, let me know at any time. You should also feel free to reach out again if I have not replied after a few weeks. 
 
@@ -64,15 +64,15 @@ Genetics research has been used, historically, to justify racist ideologies. It 
 
 ### What is the language of instruction and research?
 
-McGill university is a primarily English-speaking university, meaning that almost all classes are taught in English, and you can expect research to occur in English. Learning French is not a requirement, although learning basic French it can make life outside McGill easier and more rewarding.    
+McGill university is a primarily English-speaking university, meaning that almost all classes are taught in English, and you can expect research to occur in English. Although learning basic French is not required, it can make life outside of McGill easier and more rewarding. McGill offers French classes.
 
 ### How often will we meet?
 
-We hold weekly lab meeting, and I meet one on one with most trainees about once a week. 
+We hold weekly lab meeting, and I meet one-on-one with most trainees about once a week for an hour to discuss their research progress and any concerns they may have. We communicate throughout the week via slack. 
 
 ### Will the research position be funded?
 
-Yes, (almost) all research positions are fully funded (stipend + tuition). I encourage students to apply for fellowships -- this is helpful for your CV, and gives you more freedom to work on the topic of your choice. Else you will be funded via a research grant, which requires your research project to align with the topic of the grant. If I propose a project, it is usually because it has funding available. 
+Yes, (almost) all research positions are fully funded (stipend + tuition). I encourage students to apply for fellowships -- this is helpful for your CV, and gives you more freedom to work on the topic of your choice. Otherwise, you will be funded via a research grant, which requires your research project to align with the topic of the grant. If I propose a project, it is usually because it has funding available. 
 There is one rare exception for some international students doing MSc in computer science, where the tuition needs to be covered by external sources, for reasons outside of my control. The research in this case is partly funded (stipend + partial tuition).      
 
 
