@@ -72,8 +72,7 @@ We hold weekly lab meeting, and I meet one-on-one with most trainees about once 
 
 ### Will the research position be funded?
 
-Yes, (almost) all research positions are fully funded (stipend + tuition). I encourage students to apply for fellowships -- this is helpful for your CV, and gives you more freedom to work on the topic of your choice. Otherwise, you will be funded via a research grant, which requires your research project to align with the topic of the grant. If I propose a project, it is usually because it has funding available. 
-There is one rare exception for some international students doing MSc in computer science, where the tuition needs to be covered by external sources, for reasons outside of my control. The research in this case is partly funded (stipend + partial tuition).      
+All research positions are funded (stipend + tuition). I encourage students to apply for fellowships -- this is helpful for your CV, and gives you more freedom to work on the topic of your choice.
 
 
 
