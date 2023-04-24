@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gravel Lab @McGill"
+title                    : "Gravel Lab @ McGill"
 title_separator          : "-"
 name                     : &name "Simon Gravel"
-description              : &description "Population and Statistical Genetics at McGill University"
+description              : &description "Population and Statistical Genetics"
 url                      : https://gravellab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gravellab.github.io"
@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : gravel_DNA_2-fs8.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,11 +82,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gravel Lab"
+  name             : "Gravel lab research page"
   avatar           : "gravel_DNA_2-fs8.png"
-  bio              : "Statistical and population genetics"
-  location         : "Department of Human genetics, McGill University"
-  employer         :
+  bio              : "Population genetics" 
+  location         :  "McGill University"
+  employer         : 
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Simon+Gravel"
   googlescholar    : "https://scholar.google.com/citations?user=0wQ8O80AAAAJ&hl=fr"
   email            :

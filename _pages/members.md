@@ -10,7 +10,7 @@ author_profile: true
 ## Simon Gravel <a href="https://github.com/sgravel"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>  <a href="https://ecoevo.social/@SFGravel"><i class="fab fa-fw fa-mastodon zoom" aria-hidden="true"></i></a> <a href="https://twitter.com/SFGravel"><i class="fab fa-fw fa-twitter zoom" aria-hidden="true"></i></a>
 
 <!--- <img align="left" src="/images/photo_simon.jpg" style="width:100px;height:160p"/> --->
-Simon Gravel is associate professor in the Department of Human Genetics at McGill University, with affiliations in Computer Science, Quantitive Biology, Epidemiology and Biostatistics, and Physics. His graduate training was in Mathematics and Physics at the Université de Montréal and Cornell University, and did postdocs in Genetics in Cologne and Standord universities. 
+Simon Gravel is associate professor in the [Department of Human Genetics](https://www.mcgill.ca/humangenetics/) at McGill University, with affiliations in Computer Science, Quantitive Biology, Epidemiology and Biostatistics, and Physics. His graduate training was in Mathematics and Physics at the Université de Montréal and Cornell University, and did postdocs in Genetics in Cologne and Stanford universities. 
 
 He tries to understand the relationship between genetic diversity, history, biology, and disease. A lot of his work is through mathematics and statistics, with collaborations with people who know biology, history and anthropology. He is also scientific co-director of the [CARTaGENE cohort](https://cartagene.qc.ca/).
 

@@ -5,8 +5,8 @@ excerpt: "Prospective trainee page"
 author_profile: true
 ---
 
-
-Feel free to reach out at any time at [gravellab@gmail.com](mailto:gravellab@gmail.com) concerning research trainee positions! I try to acknowledge reception quickly, but don't always reply immediately with follow up -- see the EDI statement below for reasons why. 
+We are looking for PhD and postdoctoral trainees from a range of backgrounds. 
+Feel free to reach out at any time at [gravellab@gmail.com](mailto:gravellab@gmail.com) with questions about available positions and funding! 
 
 ## Research environment
 
