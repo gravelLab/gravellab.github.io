@@ -44,7 +44,8 @@ Alex graduated from the University of Waterloo with a BMath, majoring in Statist
 
 ## Alouette Zhang
 
-## Georgette Femerling Romero
+## Georgette Femerling
+Georgette graduated from the National Autonomous University of Mexico (UNAM) in 2021 with a B.Sc in Genomic Sciences, during which she developed interest in population genetics by working in projects focused on human evolution and endangered birds. She joined the lab in January 2022 as MSc Student in the department of Human Genetics. She is interested in structured populations and demography. Her research aims to understand how LD statistics can be used to detect ancient structure and to validate demographic inference.
 
 ## Gerardo Martinez
 
