@@ -48,6 +48,8 @@ Alex graduated from the University of Waterloo with a BMath, majoring in Statist
 
 ## Gerardo Martinez
 
+Gerardo is a PhD student currently working with sexual chromosomes and their link with genealogical data. He received a Bachelor’s Degree in Statistics and an MsC in Engineering Mathematics, both from Universidad de la República, in Uruguay. His interests in science are Probability and Statistics, and their interplay with Population Genetics. Outside of the lab, Gerardo can be found constantly looking for new bands to listen to, reading, or learning about language quirks.
+
 ## Shadi Zabad
 
 # Alumni
