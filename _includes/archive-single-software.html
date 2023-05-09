@@ -57,7 +57,9 @@
 
    {% if post.software_excerpt %}
    <h3>
-      {{post.software_excerpt}}
+     <div class="container">
+      <p class="archive__item-excerpt" itemprop="description">{{ post.software_excerpt | markdownify }}</p>
+      </div>
     </h3>
       {% endif %}
 
