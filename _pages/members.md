@@ -22,7 +22,19 @@ simon.gravel@mcgill.ca
 
 ## Melissa Spear
 
-Melissa is a postdoctoral fellow working jointly with Simon Gravel and Dara Torgerson (UCSF). She received her PhD in 2019 from UCSF in the lab of Ryan Hernandez, studying the role of recent demographic history in shaping patterns of genetic ancestry in Hispanic/Latino populations.  She is broadly interested in the evolutionary and historical processes that shape genetic diversity in admixed and underrepresented populations. In the group, Melissa co-leads the PopGen working group of the CAAPA consortium, which is focused on further understanding genetic diversity in populations of African descent. Outside of the lab, Melissa enjoys knitting, baking, and adding more books to her never ending stack of unread books.
+
+Melissa is a postdoctoral fellow working jointly with Simon Gravel and Dara Torgerson (UCSF). 
+She received her PhD in 2019 from UCSF in the lab of Ryan Hernandez, 
+studying the role of recent demographic history in shaping patterns of genetic ancestry 
+in Hispanic/Latino populations.  She is broadly 
+interested in the evolutionary and historical processes that shape genetic diversity in 
+admixed and underrepresented populations. In the group, Melissa 
+co-leads the PopGen working group of the CAAPA consortium, which is focused on further 
+understanding genetic diversity in populations of African 
+descent. Outside of the lab, Melissa enjoys knitting, baking, adding more books to her 
+never ending stack of unread books, and bird watching at Parc La 
+Fontaine.
+
 
 # Graduate students
 
@@ -32,9 +44,12 @@ Alex graduated from the University of Waterloo with a BMath, majoring in Statist
 
 ## Alouette Zhang
 
-## Georgette Femerling Romero
+## Georgette Femerling
+Georgette graduated from the National Autonomous University of Mexico (UNAM) in 2021 with a B.Sc in Genomic Sciences, during which she developed interest in population genetics by working in projects focused on human evolution and endangered birds. She joined the lab in January 2022 as MSc Student in the department of Human Genetics. She is interested in structured populations and demography. Her research aims to understand how LD statistics can be used to detect ancient structure and to validate demographic inference.
 
 ## Gerardo Martinez
+
+Gerardo is a PhD student currently working with sexual chromosomes and their link with genealogical data. He received a Bachelor’s Degree in Statistics and an MsC in Engineering Mathematics, both from Universidad de la República, in Uruguay. His interests in science are Probability and Statistics, and their interplay with Population Genetics. Outside of the lab, Gerardo can be found looking for new bands to listen to, going to concerts, reading, or learning about language quirks.
 
 ## Shadi Zabad
 
