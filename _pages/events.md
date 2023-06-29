@@ -12,11 +12,11 @@ author_profile: true
 
 Speaker information: 
 
-[Nandita Garud](garud.eeb.ucla.edu) (Looking for 1 Postdoc and 1 Graduate student)
+[Nandita Garud](garud.eeb.ucla.edu) (Looking for 1 postdoc and 1 graduate student)
 
 [Lluis Quintana-Murci](https://research.pasteur.fr/fr/team/human-evolutionary-genetics/) (Looking for 2 postdocs)
 
-[Aaron Ragsdale](https://genetics.wisc.edu/staff/ragsdale-aaron/)
+[Aaron Ragsdale](https://genetics.wisc.edu/staff/ragsdale-aaron/) (Looking for one graduate student)
 
 [Jennifer Blanc](https://hgen.uchicago.edu/program/students/jennifer-blanc)
 
