@@ -13,9 +13,13 @@ author_profile: true
 Speaker information: 
 
 [Nandita Garud](garud.eeb.ucla.edu) (Looking for 1 Postdoc and 1 Graduate student)
+
 [Lluis Quintana-Murci](https://research.pasteur.fr/fr/team/human-evolutionary-genetics/) (Looking for 2 postdocs)
+
 [Aaron Ragsdale](https://genetics.wisc.edu/staff/ragsdale-aaron/)
+
 [Jennifer Blanc](https://hgen.uchicago.edu/program/students/jennifer-blanc)
+
 [Amy Goldberg](https://www.goldberglab.org/)
 
 
