@@ -43,18 +43,8 @@ With the exception of the QLS program, admissions to these programs require you 
 
 It can take a few weeks for me to get back to you initially (see EDI statement below). If you have a deadline, let me know at any time. You should also feel free to reach out again if I have not replied after a few weeks. 
 
-## Application process tips
 
-I receive hundreds of applications every year, but most are generic applications that are, presumably, being sent to many labs. The easiest way to improve your chances of success is to follow the application guidelines above and be specific about why you are applying to the lab, what you would like to get out of your training, and perhaps which of the training programs and [projects](/projects/) you are most interested about (this is not binding, and not all projects are listed on the webpage!).
-
-What I am looking for are students who are motivated by the research we do, will work well with their peers, and have a high aptitude for research. The latter can take many forms and you don't have to be good at everything! I try to design projects that play to your strengths and help you build the skills you want to learn. 
-
-
-## Equity, Diversity, and Inclusion (EDI) in recruitment
-
-I try to foster a research environment where all trainees and staff feel supported and empowered, and I do my best to be fair through the recruitment process. One of the things I do is to process applications jointly and systematically, rather that replying on a one-by-one basis. This has shown to reduce implicit biases, but means that there may be a larger delay between receiving your application and giving you an answer.       
-
-Genetics research has been used, historically, to justify racist ideologies. It is still being [misused by racist groups](https://www.nature.com/articles/d41586-022-03252-z). Doing genetics research, even in technical or mathematical fields, does require an attention to social and ethical issues. So does working effectively in any diverse team. These topics are likely to come up during the interview process, and I encourage questions about EDI-related issues at any point during the process.   
+   
 
 
 ## FAQs
@@ -74,5 +64,16 @@ We hold weekly lab meeting, and I meet one-on-one with most trainees about once 
 
 All research positions are funded (stipend + tuition). I encourage students to apply for fellowships -- this is helpful for your CV, and gives you more freedom to work on the topic of your choice.
 
+### How can I prepare a successful application?
+
+I receive hundreds of applications every year, but most are generic applications that are, presumably, being sent to many labs. The easiest way to improve your chances of success is to follow the application guidelines above and be specific about why you are applying to the lab, what you would like to get out of your training, and perhaps which of the training programs and [projects](/projects/) you are most interested about (this is not binding, and not all projects are listed on the webpage!).
+
+What I am looking for are students who are motivated by the research we do, will work well with their peers, and have a high aptitude for research. The latter can take many forms and you don't have to be good at everything! I try to design projects that play to your strengths and help you build the skills you want to learn. 
+
+## HOw do you handle Equity, Diversity, and Inclusion (EDI) in recruitment
+
+I try to foster a research environment where all trainees and staff feel supported and empowered, and I do my best to be fair through the recruitment process. One of the things I do is to process applications jointly and systematically, rather that replying on a one-by-one basis. This has shown to reduce implicit biases, but means that there may be a larger delay between receiving your application and giving you an answer.       
+
+Genetics research has been used, historically, to justify racist ideologies. It is still being [misused by racist groups](https://www.nature.com/articles/d41586-022-03252-z). Doing genetics research, even in technical or mathematical fields, does require an attention to social and ethical issues. So does working effectively in any diverse team. These topics are likely to come up during the interview process, and I encourage questions about EDI-related issues at any point during the process.
 
 
