@@ -40,7 +40,7 @@ Gerardo is a PhD student currently working with sexual chromosomes and their lin
 # Alumni
 
 
-## Aaron Ragsdal <a href="https://github.com/apragsdale"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+## Aaron Ragsdale <a href="https://github.com/apragsdale"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 ## Alex Diaz-Papkovich <a href="https://github.com/diazale"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
