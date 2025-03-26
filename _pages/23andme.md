@@ -1,11 +1,10 @@
 ---
 permalink: /remove/
-title: "retrait_23andme"
+title: "Retrait 23andme"
 excerpt: "Retrait 23andme"
 author_profile: true
 ---
 
-# Retirer ses données de 23andme
 Cette page est une traduction et adaptation, le 26 mars 2025, d'informations fournies en anglais [ici](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)  
 
 Pour supprimer les données génétiques de 23andMe :
