@@ -35,6 +35,10 @@ Georgette graduated from the National Autonomous University of Mexico (UNAM) in 
 
 Gerardo is a PhD student currently working with sexual chromosomes and their link with genealogical data. He received a Bachelor’s Degree in Statistics and an MsC in Engineering Mathematics, both from Universidad de la República, in Uruguay. His interests in science are Probability and Statistics, and their interplay with Population Genetics. Outside of the lab, Gerardo can be found looking for new bands to listen to, going to concerts, reading, or learning about language quirks.
 
+## Javier González-Delgado <a href="https://gonzalez-delgado.github.io/"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
+Javier joined the lab in December 2023 as a postdoctoral researcher. He is working on the use of phase-type distributions to model continuous ancestry tracts along the genome. He is also interested in the interpretation of topological clustering methods. Prior to this, he completed his PhD in Applied Mathematics at the University of Toulouse III - Paul Sabatier, where he focused on the structural analysis of intrinsically disordered proteins. His research aims at developing statistical methods to address real-world problems in Biology. This includes techniques based on selective inference and optimal transport, among others. More generally, he is interested in the statistical evaluation of methods commonly used across various disciplines, such as hypothesis testing and dimensionality reduction techniques.
+
 ## Shadi Zabad <a href="https://github.com/shz9"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 # Alumni
